@@ -38,7 +38,7 @@ const CountdownTimer = ({ dropDate }) => {
         clearInterval(interval);
       }
     };
-  }, []);
+  });
 
   return (
     <div className="timer-container">
