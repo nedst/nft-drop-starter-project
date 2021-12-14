@@ -1,0 +1,19 @@
+{
+    "name": "GALLY",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2kyiJPU9dF4xtaA7idJAkFKRyfhvPR3fWJN6DHuooKiG",
+          "share": 100
+        }
+      ]
+    }
+  }

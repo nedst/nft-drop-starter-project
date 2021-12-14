@@ -1,0 +1,19 @@
+{
+    "name": "TETSUO",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2kyiJPU9dF4xtaA7idJAkFKRyfhvPR3fWJN6DHuooKiG",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -3,6 +3,20 @@
   flex-direction: column;
 }
 
+.machine-container p {
+  background-color: blue;
+  border-radius: 5px;
+  width: 50%;
+  margin: auto;
+}
+
+.mint-button {
+  background-color: purple;
+  color: green;
+  width: 50%;
+  margin: auto;
+}
+
 .gif-container {
   display: flex;
   flex-direction: column;
